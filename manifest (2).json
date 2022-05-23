@@ -1,0 +1,24 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "main.js" ]
+      }
+   },
+   "author": {
+      "email": "cesarchalas81@gmail.com"
+   },
+   "icons": {
+      "128": "favicon.png",
+      "256": "favicon.png",
+      "32": "favicon.png",
+      "48": "favicon.png",
+      "64": "favicon.png",
+      "96": "favicon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC0rhPxDfscahq+9NrrVN+XAf9s5Ch407OuQlMgE9KS84ibK2MoOmeuOoc5B/GUmjNh3PRd2FvkMKrFYKhYQBygWR02V/PpTavLI9yaotBhOU4vQIw2X5GmnBG3PUFa/0Dpa438xepOW+RywrOotAPIuVRIhaQRwnHGfnf+biexLCECHAMO",
+   "manifest_version": 2,
+   "name": "Friday Night Funking",
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.8"
+}
